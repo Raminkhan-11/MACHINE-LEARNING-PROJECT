@@ -108,10 +108,12 @@ TotalIncome = ApplicantIncome + CoapplicantIncome
 * Matplotlib
 * Seaborn
 
-## PROJECT BY:
+## GROUP MEMBERS:
 
 **RAMEEN KHAN** (54)
 **BISMA NISAR**(3)
+**AMNA AZEEM**(6)
+
 
 **LINKS**:
  DATASET SOURCE: https://www.kaggle.com/datasets/devzohaib/eligibility-prediction-for-loan?
