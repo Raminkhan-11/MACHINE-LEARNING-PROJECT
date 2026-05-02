@@ -117,5 +117,6 @@ TotalIncome = ApplicantIncome + CoapplicantIncome
 
 **LINKS**:
  DATASET SOURCE: https://www.kaggle.com/datasets/devzohaib/eligibility-prediction-for-loan?
+ linkedin: https://www.linkedin.com/posts/ramin-khan-8bb6613a9_machinelearning-datascience-python-share-7456060463542333441-wH8a?utm_source=share&utm_medium=member_android&rcm=ACoAAGPxSc8BwkvZC9RsTQTN_bNBGNQwO4sms6s
 
 
