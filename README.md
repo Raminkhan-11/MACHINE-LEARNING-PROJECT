@@ -112,7 +112,7 @@ TotalIncome = ApplicantIncome + CoapplicantIncome
 
 **RAMEEN KHAN** (54)
 **BISMA NISAR**(3)
-**AMNA AZEEM**(6)
+
 
 
 **LINKS**:
